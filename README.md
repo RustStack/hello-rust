@@ -1,6 +1,6 @@
 # hello-rust
 
-本仓库主要用于收集 rust 学习的常用中文资料。
+本仓库主要用于收集 rust 学习的常用中文资料。欢迎[加入 vim-chian GitHub组织](http://probot-invite.herokuapp.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJydXN0LWNoaW5hIiwiaXNzIjo3NDE0ODYxLCJyb2xlIjoibWVtYmVyIiwiaWF0IjoxNTg0NjI0MTU4fQ.3eRbwplsfcW8P0UByzPt8IhvWu_mijvrXpu4z0BNyd4)。
 
 - [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
 - [rust 简明教程](https://geektutu.com/post/quick-rust.html)
@@ -33,7 +33,6 @@ Rust 中文交流群是一个同步群，目前同步了 telegram 以及 gitter�
 - [Telegram](https://t.me/joinchat/EazwP0ggie4PEkPGjbR5hw)
 - [gitter](https://gitter.im/SpaceVim/rust-cn)
 - IRC： #rust-china
-- [github org](https://github.com/rust-china)
 
 **几点说明**：
 
