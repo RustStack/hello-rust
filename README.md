@@ -31,7 +31,7 @@
 Rust 中文交流群是一个同步群，目前同步了 telegram 以及 gitter，后续有需求可以添加其他频道。欢迎 Rust 程序员一起来交流。
 
 - [Telegram](https://t.me/joinchat/EazwP0ggie4PEkPGjbR5hw)
-- [gitter](https://gitter.im/SpaceVim/rust-cn)
+- [gitter](https://gitter.im/rust-china/community)
 - IRC： #rust-china
 
 **几点说明**：
