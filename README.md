@@ -26,7 +26,7 @@
 
 ## 中文书籍
 
--[《深入浅出Rust》](https://book.douban.com/subject/30312231/) 
+- [《深入浅出Rust》](https://book.douban.com/subject/30312231/)
 
 ## 中文同步交流群
 
