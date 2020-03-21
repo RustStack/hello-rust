@@ -30,6 +30,6 @@
 
 ## 中文同步交流群
 
-- [Telegram](https://t.me/joinchat/EazwP0ggie4PEkPGjbR5hw)
+- [Telegram](https://t.me/joinchat/EazwPxdNAU9TbjIa-u4-fQ)
 - [gitter](https://gitter.im/rust-china/community)
 - IRC： #rust-china
