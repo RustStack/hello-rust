@@ -1,6 +1,6 @@
 # hello-rust
 
-本仓库主要用于收集 rust 学习的常用中文资料。欢迎[加入 vim-chian GitHub 组织](http://probot-invite.herokuapp.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJydXN0LWNoaW5hIiwiaXNzIjo3NDQ1MzY2LCJyb2xlIjoibWVtYmVyIiwiaWF0IjoxNTg0NzU3NjE1fQ.WD6-dRD79nwxR2f5d9_BoGrw_5fxkAjAcIf2kCzZqI4)。
+网上有很多 Rust 相关的学习资源，本仓库主要用于收集 rust 学习的常用中文资料。欢迎[加入 vim-chian GitHub 组织](http://probot-invite.herokuapp.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJydXN0LWNoaW5hIiwiaXNzIjo3NDQ1MzY2LCJyb2xlIjoibWVtYmVyIiwiaWF0IjoxNTg0NzU3NjE1fQ.WD6-dRD79nwxR2f5d9_BoGrw_5fxkAjAcIf2kCzZqI4)。
 
 - [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/)
 - [rust 简明教程](https://geektutu.com/post/quick-rust.html)
@@ -27,9 +27,3 @@
 ## 中文书籍
 
 - [《深入浅出Rust》](https://book.douban.com/subject/30312231/)
-
-## 中文同步交流群
-
-- [Telegram](https://t.me/joinchat/EazwPxdNAU9TbjIa-u4-fQ)
-- [gitter](https://gitter.im/rust-china/community)
-- IRC： #rust-china
